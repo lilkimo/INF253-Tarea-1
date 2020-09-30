@@ -8,6 +8,7 @@ Directorio
 Directorio
 Directorio
 No pertenece al lenguaje
+Directorio
 Correo
 Correo
 No pertenece al lenguaje
@@ -29,3 +30,9 @@ No pertence al lenguaje
 No pertence al lenguaje
 No pertence al lenguaje
 XDSON
+XDSON
+XDSON
+XDSON
+XDSON
+No pertenece al lenguaje
+No pertenece al lenguaje

@@ -8,6 +8,7 @@ E:\Carpeta\archivo.txt
 .\Desktop\USM\LP\Tarea 1\programa.py
 ..\..\..\Minecraft.exe
 uwu\   esto no se puede\.py
+~\Tarea 1\main.py
 trivalito@ejemplo.correcto.com
 un.nombre+y+algunos+tags@uwu-correcto.net
 ejemplo.mala.com
@@ -29,3 +30,9 @@ aqui_si@aqui_no.malo.com
 <jeje = ["xd", 3, [2, 3]]>
 <numeromal = 01>
 <lista = [],string="">
+<numerito = -1>
+<  numerote       =          0       >
+<>
+<    a     =1>
+<a>
+<a="dou'>
