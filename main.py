@@ -49,3 +49,4 @@ for palabra in palabras:
         continue
 
     print('No pertenece al lenguaje')
+palabras.close()
