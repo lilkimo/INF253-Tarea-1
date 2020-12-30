@@ -4,6 +4,7 @@ Zarko Kuljis, 201823523-7
 Obtuve un 80.
 ## Observación del corrector
 No reconoce algunos directorios y XDSON con mucha recursividad
+
 Se cae con un ejemplo malo de XDSON
 ## Notas
 Respecto a que no reconoce algunos directorios: aparentemente el corrector no leyó el README.
